@@ -557,8 +557,3 @@ For issues and questions, please open an issue on GitHub.
 
 ---
 
-**Built with ❤️ for OSINT professionals and security researchers**
-
-**Version**: 1.0.0  
-**Last Updated**: 2024
-
